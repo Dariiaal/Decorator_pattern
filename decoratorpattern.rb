@@ -58,3 +58,4 @@ coffee_with_milk_and_sugar = Sugar.new(coffee_with_milk)
 # Выводим информацию о кофе с добавками
 puts "Напиток: #{coffee_with_milk_and_sugar.description}"
 puts "Цена: #{coffee_with_milk_and_sugar.cost}"
+
